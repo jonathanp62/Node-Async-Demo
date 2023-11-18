@@ -1,0 +1,22 @@
+{
+  "name": "async-demo",
+  "version": "1.0.0",
+  "description": "An asynchronous demonstration program",
+  "keywords": [
+    "node",
+    "learning",
+    "promises",
+    "async",
+    "application"
+  ],
+  "repository": {
+    "type": "git"
+  },
+  "main": "src/index.mjs",
+  "bin": {
+    "run": "./src/index.mjs"
+  },
+  "author": "Jonathan Parker",
+  "license": "ISC",
+  "type": "module"
+}
